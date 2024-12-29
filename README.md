@@ -4,7 +4,7 @@ Sentiment Analysis Turkish News is a deep learning project aimed at simulating a
 
 ## Features  
 
-- **Online News Data Collection**: Gathers online news articles from at least three sources, totaling a minimum of 1,000 texts.  
+- **Online News Data Collection**: Gathers online news articles from at least three sources.  
 - **Neural Machine Translation**: Translates collected English news articles into Turkish and identifies entities and words accurately.  
 - **Sentiment Analysis**: Classifies Turkish-translated texts into positive or negative sentiment categories.  
 - **Advanced Methodology**: Utilizes at least three models for translation and sentiment analysis, exploring zero-shot and few-shot learning techniques.  
